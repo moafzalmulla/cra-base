@@ -2,14 +2,14 @@ import { describe, test } from "vitest";
 import { render, screen } from "@testing-library/react";
 import App from "./App.jsx";
 
-describe("Loan applications dashboard view", () => {
+describe("test 1", () => {
   test("displays a hello world title", () => {
     render(<App />);
     screen.getByText("hello world");
   });
 
-  test("displays the first loan application data", () => {
+  test("test 2", () => {
     render(<App />);
-    screen.getByText("Alice Jones");
+    screen.getByText("hello world 2");
   });
 });

@@ -1,11 +1,3 @@
-# React UI pairing exercise
-
-This is a pairing exercise for prospective software engineers.
-
-The aim is to create a responsive table similar to the screenshot in [`dashboard.png`](dashboard.png).
-
-The candidate can guide the exercise and do as much as is feasible within the time limit (~40-45 minutes).
-
 ## System prerequisites
 
 This app assumes you have the following installed globally:
